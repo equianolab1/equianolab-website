@@ -1,4 +1,4 @@
-"homepage": "https://[your-username].github.io/equianolab-website",
+"homepage": "https://equianolab1.github.io/equianolab-website",
 "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
